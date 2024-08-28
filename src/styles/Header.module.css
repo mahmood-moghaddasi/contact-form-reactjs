@@ -1,0 +1,14 @@
+.title {
+  text-align: center;
+  padding: 2rem 0;
+  /* background-color: rgb(77, 78, 81); */
+}
+.title h1 {
+  color: rgb(0, 98, 255);
+}
+.title h4 {
+  color: rgb(110, 110, 110);
+  margin-top: 1rem;
+  font-weight: 200;
+  font-size: 14px;
+}
