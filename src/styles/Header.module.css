@@ -1,10 +1,11 @@
 .title {
   text-align: center;
-  padding: 2rem 0;
-  /* background-color: rgb(77, 78, 81); */
+  padding: 3rem 0;
+
+  margin-bottom: 2rem;
 }
 .title h1 {
-  color: rgb(0, 98, 255);
+  color: rgb(0, 180, 156);
 }
 .title h4 {
   color: rgb(110, 110, 110);
